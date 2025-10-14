@@ -35,7 +35,7 @@ Each image is labeled according to the material type it represents.
 - Total Images: ~4,000  
 - Format: JPG / PNG  
 
-**Source:** [UCI Machine Learning Repository – RealWaste Dataset](https://archive.ics.uci.edu/dataset/965/realwaste)
+**Source:** [UCI Machine Learning Repository – RealWaste Dataset](https://archive.ics.uci.edu/dataset/908/realwaste)
 
 ---
 
